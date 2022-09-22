@@ -9,7 +9,7 @@ Você foi contratado para construir um sistema para um estacionamento, que será
 
 ## Proposta
 Você precisará construir uma classe chamada "Estacionamento", conforme o diagrama abaixo:
-![Diagrama de classe estacionamento](diagrama_classe_estacionamento.png)
+![Diagrama de classe estacionamento](Docs/Imgs/diagrama_classe_estacionamento.png)
 
 A classe contém três variáveis, sendo:
 
@@ -34,5 +34,10 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 4. Encerrar
 
 
-## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## Solução ##
+Implatada as features faltantes (Cadastrar Véiculo - Remover Veículo - Listar Veículos), imagens:
+
+
+
