@@ -36,8 +36,14 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
 
-## Solução ##
+# Solução #
 Implatada as features faltantes (Cadastrar Véiculo - Remover Veículo - Listar Veículos), imagens:
 
+## Cadastrar: ##
+![Cadastro](Docs/Imgs/01.Cadastro.png)
 
+## Listagem: ##
+![Listagem](Docs/Imgs/02.Listagem.png)
 
+## Remoção: ##
+![Removação](Docs/Imgs/03.Remover.png)
